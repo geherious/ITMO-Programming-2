@@ -1,0 +1,30 @@
+D:\coding\works\c#\Lab1\Triangle\bin\Debug\net7.0\Triangle.exe
+D:\coding\works\c#\Lab1\Triangle\bin\Debug\net7.0\Triangle.deps.json
+D:\coding\works\c#\Lab1\Triangle\bin\Debug\net7.0\Triangle.runtimeconfig.json
+D:\coding\works\c#\Lab1\Triangle\bin\Debug\net7.0\Triangle.dll
+D:\coding\works\c#\Lab1\Triangle\bin\Debug\net7.0\Triangle.pdb
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\Triangle.csproj.AssemblyReference.cache
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfoInputs.cache
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfo.cs
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\Triangle.csproj.CoreCompileInputs.cache
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\Triangle.dll
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\refint\Triangle.dll
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\Triangle.pdb
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\Triangle.genruntimeconfig.cache
+D:\coding\works\c#\Lab1\Triangle\obj\Debug\net7.0\ref\Triangle.dll
+D:\study\2 course\proga\lab 1\Lab1\Triangle\bin\Debug\net7.0\Triangle.exe
+D:\study\2 course\proga\lab 1\Lab1\Triangle\bin\Debug\net7.0\Triangle.deps.json
+D:\study\2 course\proga\lab 1\Lab1\Triangle\bin\Debug\net7.0\Triangle.runtimeconfig.json
+D:\study\2 course\proga\lab 1\Lab1\Triangle\bin\Debug\net7.0\Triangle.dll
+D:\study\2 course\proga\lab 1\Lab1\Triangle\bin\Debug\net7.0\Triangle.pdb
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\Triangle.csproj.AssemblyReference.cache
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfoInputs.cache
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfo.cs
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\Triangle.csproj.CoreCompileInputs.cache
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\Triangle.dll
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\refint\Triangle.dll
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\Triangle.pdb
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\Triangle.genruntimeconfig.cache
+D:\study\2 course\proga\lab 1\Lab1\Triangle\obj\Debug\net7.0\ref\Triangle.dll

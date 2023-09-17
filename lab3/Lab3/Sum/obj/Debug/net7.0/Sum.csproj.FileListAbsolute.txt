@@ -1,0 +1,15 @@
+D:\study\2 course\proga\lab3\Lab3\Sum\bin\Debug\net7.0\Sum.exe
+D:\study\2 course\proga\lab3\Lab3\Sum\bin\Debug\net7.0\Sum.deps.json
+D:\study\2 course\proga\lab3\Lab3\Sum\bin\Debug\net7.0\Sum.runtimeconfig.json
+D:\study\2 course\proga\lab3\Lab3\Sum\bin\Debug\net7.0\Sum.dll
+D:\study\2 course\proga\lab3\Lab3\Sum\bin\Debug\net7.0\Sum.pdb
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\Sum.csproj.AssemblyReference.cache
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\Sum.AssemblyInfoInputs.cache
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\Sum.AssemblyInfo.cs
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\Sum.csproj.CoreCompileInputs.cache
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\Sum.dll
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\refint\Sum.dll
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\Sum.pdb
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\Sum.genruntimeconfig.cache
+D:\study\2 course\proga\lab3\Lab3\Sum\obj\Debug\net7.0\ref\Sum.dll

@@ -1,0 +1,15 @@
+D:\study\2 course\proga\lab2\Lab2\StructType\bin\Debug\net7.0\StructType.exe
+D:\study\2 course\proga\lab2\Lab2\StructType\bin\Debug\net7.0\StructType.deps.json
+D:\study\2 course\proga\lab2\Lab2\StructType\bin\Debug\net7.0\StructType.runtimeconfig.json
+D:\study\2 course\proga\lab2\Lab2\StructType\bin\Debug\net7.0\StructType.dll
+D:\study\2 course\proga\lab2\Lab2\StructType\bin\Debug\net7.0\StructType.pdb
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\StructType.csproj.AssemblyReference.cache
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\StructType.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\StructType.AssemblyInfoInputs.cache
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\StructType.AssemblyInfo.cs
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\StructType.csproj.CoreCompileInputs.cache
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\StructType.dll
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\refint\StructType.dll
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\StructType.pdb
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\StructType.genruntimeconfig.cache
+D:\study\2 course\proga\lab2\Lab2\StructType\obj\Debug\net7.0\ref\StructType.dll

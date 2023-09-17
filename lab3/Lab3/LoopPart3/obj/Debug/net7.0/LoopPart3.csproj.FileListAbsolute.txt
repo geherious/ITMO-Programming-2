@@ -1,0 +1,15 @@
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\bin\Debug\net7.0\LoopPart3.exe
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\bin\Debug\net7.0\LoopPart3.deps.json
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\bin\Debug\net7.0\LoopPart3.runtimeconfig.json
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\bin\Debug\net7.0\LoopPart3.dll
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\bin\Debug\net7.0\LoopPart3.pdb
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\LoopPart3.csproj.AssemblyReference.cache
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\LoopPart3.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\LoopPart3.AssemblyInfoInputs.cache
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\LoopPart3.AssemblyInfo.cs
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\LoopPart3.csproj.CoreCompileInputs.cache
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\LoopPart3.dll
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\refint\LoopPart3.dll
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\LoopPart3.pdb
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\LoopPart3.genruntimeconfig.cache
+D:\study\2 course\proga\lab3\Lab3\LoopPart3\obj\Debug\net7.0\ref\LoopPart3.dll

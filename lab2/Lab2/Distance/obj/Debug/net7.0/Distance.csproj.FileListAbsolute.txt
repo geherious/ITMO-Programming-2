@@ -1,0 +1,15 @@
+D:\study\2 course\proga\lab2\Lab2\Distance\bin\Debug\net7.0\Distance.exe
+D:\study\2 course\proga\lab2\Lab2\Distance\bin\Debug\net7.0\Distance.deps.json
+D:\study\2 course\proga\lab2\Lab2\Distance\bin\Debug\net7.0\Distance.runtimeconfig.json
+D:\study\2 course\proga\lab2\Lab2\Distance\bin\Debug\net7.0\Distance.dll
+D:\study\2 course\proga\lab2\Lab2\Distance\bin\Debug\net7.0\Distance.pdb
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\Distance.csproj.AssemblyReference.cache
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\Distance.AssemblyInfoInputs.cache
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\Distance.AssemblyInfo.cs
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\Distance.csproj.CoreCompileInputs.cache
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\Distance.dll
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\refint\Distance.dll
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\Distance.pdb
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\Distance.genruntimeconfig.cache
+D:\study\2 course\proga\lab2\Lab2\Distance\obj\Debug\net7.0\ref\Distance.dll

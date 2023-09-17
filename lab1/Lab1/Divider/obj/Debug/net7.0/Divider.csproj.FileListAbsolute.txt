@@ -1,0 +1,15 @@
+D:\coding\works\c#\Lab1\Divider\bin\Debug\net7.0\Divider.exe
+D:\coding\works\c#\Lab1\Divider\bin\Debug\net7.0\Divider.deps.json
+D:\coding\works\c#\Lab1\Divider\bin\Debug\net7.0\Divider.runtimeconfig.json
+D:\coding\works\c#\Lab1\Divider\bin\Debug\net7.0\Divider.dll
+D:\coding\works\c#\Lab1\Divider\bin\Debug\net7.0\Divider.pdb
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\Divider.csproj.AssemblyReference.cache
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\Divider.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\Divider.AssemblyInfoInputs.cache
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\Divider.AssemblyInfo.cs
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\Divider.csproj.CoreCompileInputs.cache
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\Divider.dll
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\refint\Divider.dll
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\Divider.pdb
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\Divider.genruntimeconfig.cache
+D:\coding\works\c#\Lab1\Divider\obj\Debug\net7.0\ref\Divider.dll

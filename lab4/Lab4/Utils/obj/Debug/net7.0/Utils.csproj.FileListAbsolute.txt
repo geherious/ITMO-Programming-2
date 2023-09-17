@@ -1,0 +1,15 @@
+D:\study\2 course\proga\lab4\Lab4\Utils\bin\Debug\net7.0\Utils.exe
+D:\study\2 course\proga\lab4\Lab4\Utils\bin\Debug\net7.0\Utils.deps.json
+D:\study\2 course\proga\lab4\Lab4\Utils\bin\Debug\net7.0\Utils.runtimeconfig.json
+D:\study\2 course\proga\lab4\Lab4\Utils\bin\Debug\net7.0\Utils.dll
+D:\study\2 course\proga\lab4\Lab4\Utils\bin\Debug\net7.0\Utils.pdb
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\Utils.csproj.AssemblyReference.cache
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\Utils.AssemblyInfoInputs.cache
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\Utils.AssemblyInfo.cs
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\Utils.csproj.CoreCompileInputs.cache
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\Utils.dll
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\refint\Utils.dll
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\Utils.pdb
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\Utils.genruntimeconfig.cache
+D:\study\2 course\proga\lab4\Lab4\Utils\obj\Debug\net7.0\ref\Utils.dll

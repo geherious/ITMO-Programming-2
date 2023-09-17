@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{CF513A26-E0A6-4039-9EF2-398F1AC90350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructType", "StructType\StructType.csproj", "{77BF8006-4C4D-49D7-8E9E-0E198C31704C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Distance\Distance.csproj", "{8A8F9746-B9FC-486B-A5D8-42B8DBB2892A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF513A26-E0A6-4039-9EF2-398F1AC90350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF513A26-E0A6-4039-9EF2-398F1AC90350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF513A26-E0A6-4039-9EF2-398F1AC90350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF513A26-E0A6-4039-9EF2-398F1AC90350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BF8006-4C4D-49D7-8E9E-0E198C31704C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BF8006-4C4D-49D7-8E9E-0E198C31704C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BF8006-4C4D-49D7-8E9E-0E198C31704C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BF8006-4C4D-49D7-8E9E-0E198C31704C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8F9746-B9FC-486B-A5D8-42B8DBB2892A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8F9746-B9FC-486B-A5D8-42B8DBB2892A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8F9746-B9FC-486B-A5D8-42B8DBB2892A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8F9746-B9FC-486B-A5D8-42B8DBB2892A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1383D863-65C2-46DC-92F1-4AA650C55BB0}
+	EndGlobalSection
+EndGlobal
