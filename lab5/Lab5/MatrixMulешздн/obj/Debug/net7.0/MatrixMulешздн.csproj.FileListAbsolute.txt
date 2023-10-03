@@ -1,0 +1,5 @@
+D:\study\2 course\proga\lab5\Lab5\MatrixMulешздн\obj\Debug\net7.0\MatrixMulешздн.csproj.AssemblyReference.cache
+D:\study\2 course\proga\lab5\Lab5\MatrixMulешздн\obj\Debug\net7.0\MatrixMulешздн.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga\lab5\Lab5\MatrixMulешздн\obj\Debug\net7.0\MatrixMulешздн.AssemblyInfoInputs.cache
+D:\study\2 course\proga\lab5\Lab5\MatrixMulешздн\obj\Debug\net7.0\MatrixMulешздн.AssemblyInfo.cs
+D:\study\2 course\proga\lab5\Lab5\MatrixMulешздн\obj\Debug\net7.0\MatrixMulешздн.csproj.CoreCompileInputs.cache

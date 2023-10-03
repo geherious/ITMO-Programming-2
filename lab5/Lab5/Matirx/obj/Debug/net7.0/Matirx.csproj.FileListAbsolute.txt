@@ -1,0 +1,15 @@
+D:\study\2 course\proga\lab5\Lab5\Matirx\bin\Debug\net7.0\Matirx.exe
+D:\study\2 course\proga\lab5\Lab5\Matirx\bin\Debug\net7.0\Matirx.deps.json
+D:\study\2 course\proga\lab5\Lab5\Matirx\bin\Debug\net7.0\Matirx.runtimeconfig.json
+D:\study\2 course\proga\lab5\Lab5\Matirx\bin\Debug\net7.0\Matirx.dll
+D:\study\2 course\proga\lab5\Lab5\Matirx\bin\Debug\net7.0\Matirx.pdb
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\Matirx.csproj.AssemblyReference.cache
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\Matirx.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\Matirx.AssemblyInfoInputs.cache
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\Matirx.AssemblyInfo.cs
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\Matirx.csproj.CoreCompileInputs.cache
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\Matirx.dll
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\refint\Matirx.dll
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\Matirx.pdb
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\Matirx.genruntimeconfig.cache
+D:\study\2 course\proga\lab5\Lab5\Matirx\obj\Debug\net7.0\ref\Matirx.dll
